@@ -332,7 +332,7 @@ body {
 }
 
 .filter-btn {
-    /* margin-right: 8px; */
+    padding: 6px 22px;
     min-width: 73px;
     color: var(--title-text-color);
     font-style: normal;
