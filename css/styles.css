@@ -147,11 +147,6 @@ body {
   margin-left: 50px;
 }
 
-/* .site-nav-link:hover,
-.site-nav-link:focus{
-    color: var(--accent-color);
-} */
-
 .contacts {
   display: flex;
   margin-left: auto;
@@ -174,7 +169,7 @@ body {
   color: var(--accent-color);
 }
 
-/* Hero */
+/* ----------Hero-------------- */
 .hero {
   padding: 200px 0px;
   background-color: #2f303a;
@@ -222,7 +217,7 @@ body {
   background-color: #188ce8;
 }
 
-/* Section */
+/* --------Section--------- */
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -238,7 +233,7 @@ body {
   line-height: 1.17;
   text-align: center;
 }
-/* Featchers */
+/* -------Featchers--------- */
 .feature-list {
   display: flex;
 
@@ -257,10 +252,6 @@ body {
   line-height: 1.14;
   text-transform: uppercase;
 }
-
-/* .feature-list .title {
-    color: var(--title-text-color);
-} */
 
 .feature-list p {
   margin-top: 0px;
@@ -320,7 +311,7 @@ body {
   text-align: center;
 }
 
-/* footer */
+/* -------Footer------- */
 
 .footer {
   background-color: #2f303a;
@@ -349,7 +340,7 @@ body {
   margin-top: 9px;
 }
 
-/* Projects */
+/* -------Projects------- */
 .filter {
   display: flex;
   justify-content: center;
