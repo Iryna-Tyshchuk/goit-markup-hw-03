@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+img {
+    display: block;
+}
+
 
 
 :root {
@@ -282,8 +286,8 @@ body {
 }
 
 .our-team-description{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .our-team .title {
@@ -404,7 +408,7 @@ body {
     
 }
 .flex-description {
-    margin: 20px 24px;
+    padding: 20px 24px;
 }
 
 .flex-element {
